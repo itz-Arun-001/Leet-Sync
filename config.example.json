@@ -1,0 +1,7 @@
+{
+  "leetcode_username": "YOUR_LEETCODE_USERNAME",
+  "leetcode_session": "YOUR_LEETCODE_SESSION_COOKIE",
+  "csrf_token": "YOUR_CSRF_TOKEN",
+  "repo_dir": "C:\\path\\to\\your\\solutions_repo",
+  "poll_limit": 20
+}

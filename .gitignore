@@ -1,0 +1,52 @@
+# Configuration files with sensitive tokens & credentials
+config.json
+config.jason
+*config*.json
+!config.example.json
+
+# Local state & cache files
+.leetsync_state.json
+.readme_profile_cache.json
+*.state.json
+*.cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
